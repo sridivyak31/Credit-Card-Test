@@ -1,0 +1,12 @@
+Test Case 1
+
+Input : 10d7ce2f43e35fa57d1bbf8b1e2,2014-04-29T13:15:54,10.00
+Threshold : 5
+
+Output: Fault Transaction Card Number is 10d7ce2f43e35fa57d1bbf8b1e2
+Test Case 2
+
+Input : 10d7ce2f43e35fa57d1bbf8b1e2,2014-04-29T13:15:54,10.00
+Threshold : 60
+
+Output: Transaction Successful
